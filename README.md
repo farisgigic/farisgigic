@@ -1,10 +1,15 @@
-## Hi there 👋
+## Hi there, I am Faris 👋
+<h3>About me: <hr></h3>
+👨‍💻 third year IT student @ International Burch University<br>
+📌 Sarajevo<br>
+🖥 worked with : Python, Java, C/C++, HTML, CSS, JavaScript, PHP, MySQL, MongoDB<br>
+📲 find me on [LinkedIn](https://linkedin.com/in/farisgigic)
 
 <!--
 **farisgigic/farisgigic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+About me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
